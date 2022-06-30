@@ -1,0 +1,36 @@
+h1:hover{
+    font-family: Arial;
+    color:black;
+}
+
+body{
+    margin-left: 0;
+    margin-right: 0;
+
+}
+.header{
+    background-color: #ef6565;
+}
+.table{
+background-color: #ef2525;
+}
+.banner{
+position: absolute;
+top:218px;
+bottom:0px;
+left:0px;
+border: 10px solid#ef6565;
+border-bottom:10px solid #ef6565;
+
+}
+.first{
+    font-size: large;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 400px;
+    bottom:450px;
+    left:50px;
+    right:100px;
+
+}
